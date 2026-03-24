@@ -6,13 +6,15 @@
 
 ## 🧰 Tech Toolbox
 
-- **Languages & Scripting:** Bash, Python, JavaScript, JSON, WebHooks  
-- **Databases:** SQL, PostgreSQL, MongoDB  
-- **DevOps & Deployment:** Docker, Kubernetes, Jenkins  
-- **Monitoring & Optimization:** Grafana, Monit, Wireshark  
-- **API & Testing:** Postman, Selenium, Cucumber, API Integrations  
-- **Ticketing & Collaboration:** Jira, Confluence, ServiceNow, Freshdesk  
-- **OS & Environments:** Linux (Troubleshooting & Automation), Virtual Environments  
+| **Category**              | **Tools & Technologies**                                                                 |
+|----------------------------|------------------------------------------------------------------------------------------|
+| Languages & Scripting      | Bash, Python, JavaScript, JSON, WebHooks                                                 |
+| Databases                  | SQL, PostgreSQL, MongoDB                                                                 |
+| DevOps & Deployment        | Docker, Kubernetes, Jenkins                                                              |
+| Monitoring & Optimization  | Grafana, Monit, Wireshark                                                                |
+| API & Testing              | Postman, Selenium, Cucumber, API Integrations                                            |
+| Collaboration Tools        | Jira, Confluence, ServiceNow, Freshdesk                                                  |
+| OS & Environments          | Linux (Troubleshooting & Automation), Virtual Environments                               |
 
 <!---
 anansh23/anansh23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
